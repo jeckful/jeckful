@@ -1,8 +1,8 @@
 # Hey, I'm Yanis 👋
 
-🎓 3rd-year Computer Science student (24 y/o)  
+🎓 3rd-year Computer Science student (25 y/o)  
 💻 Passionate about software development, building cool stuff, and learning by doing  
-🧠 Currently working on a price predictor for Magic: The Gathering cards  
+🧠 Currently working on a Few-Shot Learning system to detect and classify sealing defects in liquid packaging bags
 
 ---
 
