@@ -8,7 +8,7 @@ yanis.laassibi@pm.me
 ## Projects
 
 ### Few-Shot Learning for Industrial Defect Detection
-*Research Intern @ LIRIS Laboratory (CNRS)*
+*Research Intern @ LIRIS*
 
 Benchmarked Siamese, Prototypical, and Matching Networks for weld defect detection with limited labeled data. Also handled image preprocessing pipelines.
 
