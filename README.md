@@ -1,7 +1,7 @@
 # Yanis Laassibi
 
 CS grad from Lyon, into backend and ML.  
-yanis.laassibi@proton.me
+yanis.laassibi@pm.me
 
 ---
 
