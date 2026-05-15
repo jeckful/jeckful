@@ -17,9 +17,9 @@ Benchmarked Siamese, Prototypical, and Matching Networks for weld defect detecti
 ---
 
 ### lauredane.com
-*Freelance — portfolio site for a creative professional*
+*Portfolio site for a creative friend*
 
-Custom design and dev — animated navigation, lightbox galleries, protected pages. Deployed on Vercel.
+Custom design and dev : animated navigation, lightbox galleries, protected pages. Deployed on Vercel.
 
 `Next.js` `React` `Tailwind CSS` `Framer Motion`
 
